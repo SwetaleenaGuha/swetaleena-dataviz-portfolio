@@ -1,7 +1,7 @@
 # Swetaleena Guha — Data Visualization Portfolio
 
 | [Home](https://swetaleenaguha.github.io/swetaleena-dataviz-portfolio/) | [Data Visualization Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
-| ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------- | ----------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+
 
 ## About Me
 
@@ -34,4 +34,4 @@ Additional course exercises and visualizations will be added as the semester pro
 
 ## AI Acknowledgement
 
-I used ChatGPT for guidance in setting up GitHub Pages and for assistance drafting and editing the introductory portfolio text. I reviewed and customized the final content before publishing it.
+I used Microsoft Copilot for guidance in setting up GitHub Pages and for assistance drafting and editing the introductory portfolio text. I reviewed and customized the final content before publishing it.
