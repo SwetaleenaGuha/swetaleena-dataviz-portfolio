@@ -24,3 +24,13 @@ This visualization focuses on the 20 countries with the highest government debt-
   scrolling="yes"
   allowfullscreen>
 </iframe>
+
+## Trust in News Media (Simmons Research 2018) - Class Exercise - Week3
+<iframe
+  src="https://public.tableau.com/views/TrustinNewsMediaSimmonsResearch2018/Sheet1?:showVizHome=no&:embed=true"
+  width="100%"
+  height="800"
+  frameborder="0"
+  scrolling="yes"
+  allowfullscreen>
+</iframe>
