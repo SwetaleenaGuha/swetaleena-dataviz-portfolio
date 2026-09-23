@@ -1,42 +1,82 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://swetaleenaguha.github.io/swetaleena-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Final Project Part I
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## Where Is India Travelling?
+### The Changing Geography of Domestic Tourism in India, 2020–2023
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Domestic travel is an important part of India's tourism landscape, but the number of visitors is not distributed equally across the country. Some states and union territories receive far more domestic tourists than others, and these patterns have also changed considerably in recent years. For my final project, I want to explore how domestic tourism across India changed between 2020 and 2023 and identify the destinations that attracted the largest numbers of domestic visitors.
 
-Text here...
+Rather than presenting the data only as rankings, I want to tell a story about the changing geography of domestic tourism. The project will begin with the overall change in travel between 2020 and 2023, then move into differences among states and union territories, and finally examine which destinations experienced notable changes during this period. The intended audience is people interested in travel and tourism in India who may be familiar with individual destinations but may not know how tourism activity differs across the country.
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+### One-Sentence Summary
 
-Text here...
+This project explores how domestic tourism across India changed from 2020 to 2023 and where domestic travelers are going.
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+### User Story
 
-Text here...
+As someone interested in travelling within India, I want to understand which parts of the country attract domestic tourists and how those patterns have changed over time so that I can better understand India's domestic tourism landscape.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+### Project Structure
+
+**1. The Big Picture: How has domestic travel changed?**  
+The story will begin by showing the overall number of domestic tourist visits in India from 2020 through 2023. This will establish the broader context for the rest of the project.
+
+**2. Where are domestic tourists going?**  
+The next section will compare states and union territories based on their number of domestic tourist visits. A ranked visualization will highlight the destinations receiving the largest numbers of visitors.
+
+**3. What does the geography of tourism look like?**  
+A map of India will show how domestic tourist visits are distributed geographically. This will help the audience see patterns that may not be obvious from rankings alone.
+
+**4. Which destinations changed the most?**  
+The story will then examine changes between 2020 and 2023 to identify states and union territories that experienced notable changes in domestic tourist visits.
+
+**5. The changing landscape of domestic tourism**  
+The final section will bring these views together and summarize what the data reveals about how domestic tourism across India changed during this period.
+
+# Initial Sketches
+
+These initial sketches show how I am planning to visually structure the story. The first visualization introduces the overall change in domestic tourism over time, the second compares states and union territories, and the third explores the geographic distribution of domestic tourist visits across India.
+
+### Sketch 1: How Has Domestic Tourism Changed?
+
+The first sketch uses a line chart to show the overall change in domestic tourist visits between 2020 and 2023. This will provide context before moving into state-level comparisons.
+
+### Sketch 2: Where Are Domestic Tourists Going?
+
+The second sketch uses a ranked horizontal bar chart to compare domestic tourist visits across states and union territories. I also plan to include a year selector so readers can explore how the rankings change over time.
+
+<img width="1220" height="1600" alt="Sketches" src="https://github.com/user-attachments/assets/43b1c8d0-00b1-43d5-ad32-89e30af4cd44" />
+
+
+### Sketch 3: The Geography of Domestic Tourism
+
+The third sketch explores the geographic distribution of domestic tourism using a map of India. States and union territories will be represented according to the number of domestic tourist visits, with interactive details available for individual locations.
+
+<img width="814" height="250" alt="Sketch2" src="https://github.com/user-attachments/assets/74e4a59e-c982-4859-a3d8-d22a5e7fa0b1" />
+
+# The Data
+
+The primary dataset for this project contains the number of domestic tourist visits to Indian states and union territories for the years 2020, 2021, 2022, and 2023. The data provides state- and union-territory-level visitor counts for each year, which makes it possible to compare destinations at a single point in time as well as examine how domestic tourism changed over the four-year period.
+
+I plan to use this dataset in three main ways. First, I will examine the national totals to provide an overview of how domestic tourism changed between 2020 and 2023. Second, I will compare states and union territories to identify where domestic tourist visits are concentrated. Finally, I will compare changes over time and explore the geographic distribution of tourism across India. Since the dataset reports visitor counts rather than the motivations or characteristics of individual travelers, the project will focus on patterns in visits and will not attempt to explain why tourists chose particular destinations.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| India Domestic Tourism 2020–2023 | [Government of India Open Data](https://up.data.gov.in/resource/statesut-wise-number-domestic-tourists-visit-dtv-under-dekho-apna-desh-initiative-2020) | State/UT-wise number of domestic tourist visits in India from 2020 to 2023 |
+| Project Data Copy | [CSV](India_domestic_tourism_2020_2023.csv) | Copy of the dataset uploaded to this GitHub repository |
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+# Method and Medium
+
+I plan to use Tableau to explore the dataset and create the main visualizations for the project, including a time-based chart, state and union territory comparisons, and a geographic view of domestic tourism in India. For the final presentation, I plan to use Shorthand to combine the visualizations with explanatory text and create a narrative that guides the reader through the story rather than presenting the results as a standalone dashboard.
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Government of India, Open Government Data (OGD) Platform India. *States/UT-wise Number of Domestic Tourists Visit (DTV) under the Dekho Apna Desh initiative from 2020 to 2023.* Source data reported by States/UTs Tourism Departments.
+
+## AI Acknowledgements
+
+I used ChatGPT to help brainstorm the project direction, organize the story structure, and refine the wording of the project outline. I also used AI to help develop an initial concept for one of the visualization sketches. The final project topic, dataset selection, project decisions, and hand-drawn sketches were completed and reviewed by me.
