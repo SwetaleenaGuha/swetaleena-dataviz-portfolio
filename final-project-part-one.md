@@ -79,4 +79,4 @@ Government of India, Open Government Data (OGD) Platform India. *States/UT-wise 
 
 ## AI Acknowledgements
 
-I used ChatGPT to help brainstorm the project direction, organize the story structure, and refine the wording of the project outline. I also used AI to help develop an initial concept for one of the visualization sketches. The final project topic, dataset selection, project decisions, and hand-drawn sketches were completed and reviewed by me.
+I used ChatGPT to help organize the story structure, and refine the wording of the project outline.The final project topic, dataset selection, project decisions, and hand-drawn sketches were completed and reviewed by me.
