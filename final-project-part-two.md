@@ -1,6 +1,8 @@
 | [home page](https://swetaleenaguha.github.io/swetaleena-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Final Project Part II: Storyboard and User Research
+
+## Wireframes / storyboards
 For Part II, I developed my initial sketches into a more complete visual story using Tableau and Shorthand. The draft follows a progression from the overall recovery of domestic tourism in India to differences across individual states and union territories.
 
 My current storyboard follows this sequence:
@@ -64,7 +66,7 @@ The visualizations are still being refined. For Part III, I plan to use feedback
 
 The target audience for this story is people who are interested in travel and tourism in India but may not be familiar with how domestic tourism is distributed across different states and union territories.
 
-# User research 
+## User research 
 For user research, I spoke with three individuals who have some familiarity with India and/or an interest in travel. They did not need to have expertise in tourism or data visualization because I wanted to understand whether the story was clear to a general reader. I showed each participant the current draft of the story and visualizations and asked them to interpret the story without giving them detailed explanations beforehand.
 
 ### Interview introduction
@@ -112,7 +114,7 @@ The participants also felt that the order of the visualizations could be improve
 
 Finally, I discussed the possibility of incorporating photographs from my own travels across India. The participants responded positively to this idea because it could connect the quantitative tourism data with actual destinations and make the final story feel more personal and engaging.
 
-# Identified changes for Part III
+## Identified changes for Part III
 
 Based on the user research, I identified several changes that I plan to make while developing the final version of the story.
 
