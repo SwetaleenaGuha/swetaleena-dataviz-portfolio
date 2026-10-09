@@ -9,15 +9,17 @@ Hello! I am Swetaleena Guha, a Master of Information Systems Management student 
 
 Before joining CMU, I worked in data analytics and risk consulting, where I used data to support internal audit, risk management, finance, and business stakeholders. My experience includes working with SQL, Python, R, Power BI, Tableau, and Oracle Analytics Cloud. I am particularly interested in transforming complex analysis into clear and actionable insights.
 
-## What I Hope to Learn
+## What I Learned
 
-Through Telling Stories with Data, I hope to improve my ability to communicate analytical findings through clear, engaging, and audience-focused visualizations. I want to understand how color, visual hierarchy, chart selection, annotations, and narrative structure influence how an audience interprets data.
+Through Telling Stories with Data at Carnegie Mellon University, I strengthened my ability to communicate analytical findings through clear, engaging, and audience-focused visualizations. I learned how color, visual hierarchy, chart selection, annotations, and narrative structure can influence how audiences interpret data and understand complex information.
 
-After graduating, I plan to pursue analytics-focused opportunities in internal audit, risk, compliance, fraud, or financial services. I hope to use the skills from this course to communicate complex findings effectively to both technical and nontechnical stakeholders.
+The course also helped me develop a stronger understanding of data storytelling, from selecting appropriate visualizations to building narratives that make insights more accessible and meaningful. Through my final project on domestic tourism in India, I applied these skills to transform data into a visual story supported by research and audience feedback.
+
+As I prepare to pursue analytics-focused opportunities in internal audit, risk, compliance, fraud, and financial services, I hope to apply these skills to communicate complex findings effectively to both technical and nontechnical stakeholders.
 
 ## Portfolio
 
-This portfolio will document my assignments, workshops, and progress throughout the course.
+This portfolio showcases my data visualization assignments and projects completed as part of Telling Stories with Data at Carnegie Mellon University. It highlights my approach to visual design, data analysis, and communicating insights through storytelling.
 
 ### Course Assignments
 
@@ -29,8 +31,6 @@ This portfolio will document my assignments, workshops, and progress throughout 
 * [Final Project — Part One](final-project-part-one)
 * [Final Project — Part Two](final-project-part-two)
 * [Final Project — Part Three](final-project-part-three)
-
-Additional course exercises and visualizations will be added as the semester progresses.
 
 ## AI Acknowledgement
 
