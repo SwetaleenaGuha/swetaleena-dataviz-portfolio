@@ -5,7 +5,7 @@
 ## Where Is India Travelling?
 ### The Changing Geography of Domestic Tourism in India, 2020–2023
 
-# Outline
+## Outline
 
 Domestic travel is an important part of India's tourism landscape, but the number of visitors is not distributed equally across the country. Some states and union territories receive far more domestic tourists than others, and these patterns have also changed considerably in recent years. For my final project, I want to explore how domestic tourism across India changed between 2020 and 2023 and identify the destinations that attracted the largest numbers of domestic visitors.
 
@@ -36,7 +36,7 @@ The story will then examine changes between 2020 and 2023 to identify states and
 **5. The changing landscape of domestic tourism**  
 The final section will bring these views together and summarize what the data reveals about how domestic tourism across India changed during this period.
 
-# Initial Sketches
+## Initial Sketches
 
 These initial sketches show how I am planning to visually structure the story. The first visualization introduces the overall change in domestic tourism over time, the second compares states and union territories, and the third explores the geographic distribution of domestic tourist visits across India.
 
@@ -57,7 +57,7 @@ The third sketch explores the geographic distribution of domestic tourism using 
 
 <img width="814" height="250" alt="Sketch2" src="https://github.com/user-attachments/assets/74e4a59e-c982-4859-a3d8-d22a5e7fa0b1" />
 
-# The Data
+## The Data
 
 The primary dataset for this project contains the number of domestic tourist visits to Indian states and union territories for the years 2020, 2021, 2022, and 2023. The data provides state- and union-territory-level visitor counts for each year, which makes it possible to compare destinations at a single point in time as well as examine how domestic tourism changed over the four-year period.
 
@@ -69,7 +69,7 @@ I plan to use this dataset in three main ways. First, I will examine the nationa
 | Project Data Copy | [CSV](India_domestic_tourism_2020_2023.csv) | Copy of the dataset uploaded to this GitHub repository |
 
 
-# Method and Medium
+## Method and Medium
 
 I plan to use Tableau to explore the dataset and create the main visualizations for the project, including a time-based chart, state and union territory comparisons, and a geographic view of domestic tourism in India. For the final presentation, I plan to use Shorthand to combine the visualizations with explanatory text and create a narrative that guides the reader through the story rather than presenting the results as a standalone dashboard.
 
@@ -79,4 +79,4 @@ Government of India, Open Government Data (OGD) Platform India. *States/UT-wise 
 
 ## AI Acknowledgements
 
-I used ChatGPT to help organize the story structure, and refine the wording of the project outline.The final project topic, dataset selection, project decisions, and hand-drawn sketches were completed and reviewed by me.
+I used ChatGPT to help organize the story structure, and refine the wording of the project outline. The final project topic, dataset selection, project decisions, and hand-drawn sketches were completed and reviewed by me.
